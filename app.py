@@ -1,2 +1,2 @@
-print(max(list(map(int, input().strip().split()))))
+print(min(list(map(int, input().strip().split()))))
 # 9. я написал код, который это все поддерживает сразу, так что просто добавлю текст
